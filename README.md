@@ -110,16 +110,6 @@ REACT_APP_API_URL=http://localhost:8000/api/v1
 REACT_APP_PAYPAL_CLIENT_ID=your-paypal-client-id
 ```
 
-## 🧑‍💻 Test Accounts
-
-Pre-loaded test users (password: `password123` for all):
-
-| Email | Role | Purpose |
-|-------|------|---------|
-| admin@hvac.com | Admin | System administration |
-| john@hvac.com | User | Browse & purchase services |
-| hvac_pro@hvac.com | Seller | Manage & sell services |
-
 ## 📚 API Endpoints
 
 ### Authentication
